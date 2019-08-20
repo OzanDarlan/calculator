@@ -9,7 +9,7 @@ public class View {
 	JFrame frame = new JFrame ("calculator");
 	JPanel textPanel = new JPanel();
 	JPanel buttonPanel = new JPanel();
-	JLabel textLabel = new JLabel("0");
+	JLabel textLabel = new JLabel("");
 	JButton one = new JButton("1");
 	JButton two = new JButton("2");
 	JButton three = new JButton("3");
