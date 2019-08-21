@@ -1,4 +1,4 @@
-package calculator;
+package com.example.demo.calculator.src.calculator;
 
 public class Model {
 	//a function interface

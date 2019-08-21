@@ -1,5 +1,5 @@
-package calculator;
-import calculator.*;
+package com.example.demo.calculator.src.calculator;
+
 import java.util.Scanner;
 
 public class Main {

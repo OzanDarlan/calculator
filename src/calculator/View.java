@@ -1,4 +1,4 @@
-package calculator;
+package com.example.demo.calculator.src.calculator;
 
 import javax.swing.*;
 import java.awt.*;
